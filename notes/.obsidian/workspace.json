@@ -6,6 +6,7 @@
       {
         "id": "d6a1c62040023cde",
         "type": "tabs",
+        "dimension": 50,
         "children": [
           {
             "id": "1a4c4374a951a352",
@@ -13,8 +14,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
-                "mode": "preview",
+                "file": "leetcode/20. Valid Parentheses.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -24,6 +25,7 @@
       {
         "id": "7c97dfd942608615",
         "type": "tabs",
+        "dimension": 50,
         "children": [
           {
             "id": "72ed255476c4b2a9",
@@ -99,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "leetcode/20. Valid Parentheses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "leetcode/20. Valid Parentheses.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md"
+                "file": "leetcode/20. Valid Parentheses.md"
               }
             }
           }
@@ -162,11 +164,11 @@
   },
   "active": "1a4c4374a951a352",
   "lastOpenFiles": [
+    "Welcome.md",
     "leetcode/20. Valid Parentheses.md",
     "JavaScript",
     "best practice",
     "systemdesign",
-    "Welcome.md",
     "leetcode"
   ]
 }
