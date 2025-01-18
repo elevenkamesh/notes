@@ -4,35 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d6a1c62040023cde",
+        "id": "9cf2a35c9b425241",
         "type": "tabs",
-        "dimension": 50,
         "children": [
           {
-            "id": "1a4c4374a951a352",
+            "id": "7331880ca1d03d83",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "leetcode/20. Valid Parentheses.md",
+                "file": "Coding Practice Questions.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "7c97dfd942608615",
-        "type": "tabs",
-        "dimension": 50,
-        "children": [
-          {
-            "id": "72ed255476c4b2a9",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
+              },
+              "icon": "lucide-file",
+              "title": "Coding Practice Questions"
             }
           }
         ]
@@ -47,6 +33,7 @@
       {
         "id": "e4b86cd7fe897948",
         "type": "tabs",
+        "dimension": 67.42671009771986,
         "children": [
           {
             "id": "6c117fcbfb89f8ed",
@@ -55,7 +42,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -70,7 +59,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -78,14 +69,33 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      },
+      {
+        "id": "88926b867388cbcd",
+        "type": "tabs",
+        "dimension": 32.57328990228013,
+        "children": [
+          {
+            "id": "f63f08a7603d5fb4",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "d450204ee83a356d",
@@ -101,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "leetcode/20. Valid Parentheses.md",
+                "file": "language syntax/HashMap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +119,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for HashMap"
             }
           },
           {
@@ -118,10 +130,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "leetcode/20. Valid Parentheses.md",
+                "file": "language syntax/HashMap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from HashMap"
             }
           },
           {
@@ -132,7 +146,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -141,8 +157,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "leetcode/20. Valid Parentheses.md"
-              }
+                "file": "language syntax/HashMap.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of HashMap"
             }
           }
         ]
@@ -159,16 +177,53 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1a4c4374a951a352",
+  "active": "7331880ca1d03d83",
   "lastOpenFiles": [
+    "leetcode solutions/Untitled.md",
+    "Coding Practice Questions.md",
+    "leetcode solutions/242. Valid Anagram.md",
+    "youtube/If I were to learn a new programming language.md",
     "Welcome.md",
-    "leetcode/20. Valid Parentheses.md",
-    "JavaScript",
-    "best practice",
+    "Untitled.md",
+    "Keywords.md",
+    "containsDuplicate.md",
+    "language syntax/goLang/go notes.md",
+    "leetcode syntax/Set.md",
+    "language syntax/java/java keywords.md",
+    "language syntax/HashMap.md",
+    "leetcode syntax",
+    "leetcode solutions/c.md",
+    "leetcode solutions/217 two sum.md",
+    "leetcode solutions/20. Valid Parentheses.md",
+    "leetcode solutions/217. Contains Duplicate.md",
+    "leetcode solutions/11.Container with most water.md",
+    "obsidian templates/Leet Code.md",
+    "Excalidraw/Drawing 2024-12-09 07.14.16.excalidraw.md",
+    "python/Python Keywords.md",
+    "netorks/Pasted image 20240726212552.png",
+    "netorks/Pasted image 20240726213244.png",
+    "links/study wesites.md",
+    "links/blog links.md",
+    "blogs/blogs links.md",
+    "language syntax/min max.md",
+    "Excalidraw/Drawing 2024-12-09 07.13.34.excalidraw.md",
+    "language syntax/goLang/links.md",
+    "Untitled.canvas",
+    "youtube",
     "systemdesign",
-    "leetcode"
+    "social",
+    "python",
+    "obsidian templates",
+    "netorks/Pasted image 20240726215738.png",
+    "netorks/Pasted image 20240726214610.png",
+    "netorks/Pasted image 20240726213519.png",
+    "netorks",
+    "links",
+    "leetcode solutions",
+    "language syntax"
   ]
 }
