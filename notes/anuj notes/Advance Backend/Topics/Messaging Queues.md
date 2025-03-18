@@ -1,0 +1,1 @@
+- [[Kafka]] (This is mainly an event streaming platform but also used as Messaging Queue)

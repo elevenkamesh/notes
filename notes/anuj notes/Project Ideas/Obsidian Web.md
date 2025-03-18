@@ -1,0 +1,1 @@
+- Using the synced data in [[Obsidian Sync|Obsidian Github]], deploy the content on web with password protection so that only the user can access it and it stays updated too.

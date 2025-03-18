@@ -20,8 +20,93 @@
               "icon": "lucide-file",
               "title": "Coding Practice Questions"
             }
+          },
+          {
+            "id": "01829501226ae133",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "leetcode syntax/leetcode-hashmap-guide.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "leetcode-hashmap-guide"
+            }
+          },
+          {
+            "id": "69a7d83bd1f2d474",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "leetcode syntax/leetcode-hashmap-guide.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "leetcode-hashmap-guide"
+            }
+          },
+          {
+            "id": "193f466e80c0b530",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "language syntax/HashMap.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "HashMap"
+            }
+          },
+          {
+            "id": "b76d3779ad5607c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "links/study wesites.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "study wesites"
+            }
+          },
+          {
+            "id": "3754dcf1abdd4b66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "todos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "todos"
+            }
+          },
+          {
+            "id": "0e4e29221a195767",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coding Practice Questions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Coding Practice Questions"
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -41,7 +126,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -181,49 +267,54 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7331880ca1d03d83",
+  "active": "0e4e29221a195767",
   "lastOpenFiles": [
-    "leetcode solutions/Untitled.md",
-    "Coding Practice Questions.md",
-    "leetcode solutions/242. Valid Anagram.md",
-    "youtube/If I were to learn a new programming language.md",
-    "Welcome.md",
-    "Untitled.md",
-    "Keywords.md",
-    "containsDuplicate.md",
-    "language syntax/goLang/go notes.md",
-    "leetcode syntax/Set.md",
-    "language syntax/java/java keywords.md",
-    "language syntax/HashMap.md",
-    "leetcode syntax",
+    "database/postgress/DB Best Practice.md",
     "leetcode solutions/c.md",
-    "leetcode solutions/217 two sum.md",
+    "Coding Practice Questions.md",
+    "database/dbms.md",
+    "database/postgress/notes.md",
+    "database/postgress/links.md",
+    "Untitled.md",
+    "todos.md",
+    "links/blog links.md",
+    "database/postgress",
+    "Untitled 1",
+    "links/study wesites.md",
+    "Untitled",
+    "programing language/nodeJs/NodeJs Blogs.md",
+    "programing language/nodeJs/best practice.md",
+    "programing language/nodeJs/production check list for NODEJS.md",
+    "programing language/nodeJs/Node.js.md",
+    "leetcode solutions/49 Group anagrams.md",
+    "programing language/nodeJs",
     "leetcode solutions/20. Valid Parentheses.md",
-    "leetcode solutions/217. Contains Duplicate.md",
-    "leetcode solutions/11.Container with most water.md",
-    "obsidian templates/Leet Code.md",
-    "Excalidraw/Drawing 2024-12-09 07.14.16.excalidraw.md",
-    "python/Python Keywords.md",
+    "golang pattern.md",
+    "database/mongodb.md",
+    "database/migrations/migration.md",
+    "Programming Stuff/GoLang/concurrency pattern.md",
+    "Programming Stuff/GoLang/GoRoutines.md",
+    "Programming Stuff/When & How to use Pointers.md",
+    "Programming Stuff/GoLang/Project Structure in Golang.md",
+    "Programming Stuff/GoLang/JWT in Golang.md",
+    "Programming Stuff/GoLang/Basics of Golang.md",
+    "programing language/goLang/Validation.md",
+    "netorks/Pasted image 20240726214610.png",
     "netorks/Pasted image 20240726212552.png",
     "netorks/Pasted image 20240726213244.png",
-    "links/study wesites.md",
-    "links/blog links.md",
-    "blogs/blogs links.md",
-    "language syntax/min max.md",
-    "Excalidraw/Drawing 2024-12-09 07.13.34.excalidraw.md",
-    "language syntax/goLang/links.md",
-    "Untitled.canvas",
-    "youtube",
-    "systemdesign",
-    "social",
-    "python",
-    "obsidian templates",
-    "netorks/Pasted image 20240726215738.png",
-    "netorks/Pasted image 20240726214610.png",
-    "netorks/Pasted image 20240726213519.png",
-    "netorks",
-    "links",
-    "leetcode solutions",
-    "language syntax"
+    "anuj notes",
+    "anuj notes/111 Attachments/Pasted image 20241202221955.png",
+    "anuj notes/111 Attachments/Kubernetes deployment.png",
+    "anuj notes/111 Attachments/K8s Cluster.png",
+    "anuj notes/111 Attachments/FE & BE with Kuberenetes.png",
+    "anuj notes/111 Attachments/Dynamic Scaling Policy.png",
+    "database/migrations",
+    "database",
+    "anuj notes/111 Attachments/Kube-Proxy.png",
+    "anuj notes/111 Attachments/Docker Bind Mounts & Volumes.png",
+    "anuj notes/Advance Backend/Topics",
+    "anuj notes/Advance Backend",
+    "anuj notes/111 Attachments",
+    "Untitled.canvas"
   ]
 }

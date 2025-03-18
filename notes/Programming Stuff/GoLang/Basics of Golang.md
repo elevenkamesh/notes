@@ -1,0 +1,8 @@
+- `io.ReadAll()` reads every Reader and converts it to bytes
+- We can convert these bytes by using `json.Unmarshal(data []byte, v any)`, it parses the JSON-encoded data and stores the result in the value pointed to by v. If v is nil or not a pointer, Unmarshal returns an InvalidUnmarshalError.
+- We can convert a `map` or anything to JSON bytes using `json.Marshal(v any)`, it returns the JSON encoding of v. Basically then we can convert it using `string(data []byte)` to convert it to a string
+- [[Project Structure in Golang|Basic Project Structure reference]]
+- [[Contexts in GoLang|Contexts]]
+- [[JWT in Golang]]
+- [[When & How to use Pointers|When to use Pointers]]
+- [[GoRoutines]]

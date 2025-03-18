@@ -1,0 +1,2 @@
+- [[Docker]] helps in creating images and isolated containers.
+- [[Kubernetes]] is a container orchestration engine. It basically automates the management, scaling and deployment of container based applications.

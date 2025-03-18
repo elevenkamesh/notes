@@ -1,8 +1,4 @@
 
-https://systemdesign.one/leaderboard-system-design/#what-is-a-leaderboard
-
-
-
 Postgresql official docs
 
  [https://sqlzoo.net/wiki/SQL_Tutorial](https://sqlzoo.net/wiki/SQL_Tutorial) [](https://leetcode.com/studyplan/top-sql-50/)
@@ -14,4 +10,3 @@ Postgresql official docs
 [https://www.sql-practice.com/](https://www.sql-practice.com/)
 
  [https://sqlbolt.com/](https://sqlbolt.com/) [https://pgexercises.com/](https://pgexercises.com/)
-

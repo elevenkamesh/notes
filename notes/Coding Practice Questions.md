@@ -1,8 +1,9 @@
 
-| Question Number | Question Name     | notes                       | question link                                                                      |
-| --------------- | ----------------- | --------------------------- | ---------------------------------------------------------------------------------- |
-| 1               | TwoSum            |                             | [[1]]                                                                              |
-| 217             | containsDuplicate | [[217. Contains Duplicate]] | [containsDuplicate](https://leetcode.com/problems/contains-duplicate/description/) |
-| 242             | valid anagram     | [[242. Valid Anagram]]      | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/)                 |
-|                 |                   |                             |                                                                                    |
-|                 |                   |                             |                                                                                    |
+| Question Number | Question Name     | notes                       | question link                                                                      |                                                                                              |     |
+| --------------- | ----------------- | --------------------------- | ---------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | --- |
+| 1               | TwoSum            | [[1 Two Sum]]               | [Two Sum](https://leetcode.com/problems/two-sum/description/)                      |                                                                                              |     |
+| 217             | containsDuplicate | [[217. Contains Duplicate]] | [containsDuplicate](https://leetcode.com/problems/contains-duplicate/description/) |                                                                                              |     |
+| 242             | valid anagram     | [[242. Valid Anagram]]      | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/)                 |                                                                                              |     |
+| 415             | add strings       | [[417 add strings]]         | [415. Add Strings](https://leetcode.com/problems/add-strings/)                     | learned about stringBuilder and reverse and string buffer and string builder is not a string |     |
+|                 |                   |                             |                                                                                    |                                                                                              |     |
+|                 |                   |                             |                                                                                    |                                                                                              |     |
